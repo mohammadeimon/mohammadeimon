@@ -1,6 +1,6 @@
 ## Hi there! 🙋🏻‍♀️
 
-I'm Mohammad, a self-taught data analyst.
+I'm Mohammad, an aspiring data analyst.
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Recent College Graduate
