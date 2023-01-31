@@ -1,4 +1,4 @@
-## Hi there! 🙋🏻‍♀️
+## Hi there! 👨‍🎓
 
 I'm Mohammad, an aspiring data analyst.
 
@@ -16,9 +16,7 @@ I'm Mohammad, an aspiring data analyst.
 
 ### ⚡️ Currently ⚡️
 - Brushing up on data cleaning and wrangling skills using Python
-- Learning database administration
-- Course: World Quant University Applied Data Science Lab
-- Course: [MySQL Data Analysis & Business Intelligence](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
+- Udemy: Learning Python for Data Analysis and Visualization
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/katiehuangx/](https://www.linkedin.com/in/mohammad-eimon-4331b41ab/))
+- [LinkedIn]((https://www.linkedin.com/in/mohammad-eimon-4331b41ab/))
