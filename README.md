@@ -16,4 +16,4 @@ I'm Mohammad, a data analyst.
 - Udemy: Learning Python for Data Analysis and Visualization
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn]: https://www.linkedin.com/in/mohammad-eimon-4331b41ab/
+- [Linkedin](https://www.linkedin.com/in/mohammad-eimon-4331b41ab/)
